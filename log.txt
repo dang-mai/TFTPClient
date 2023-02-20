@@ -1,0 +1,9 @@
+[11/10 13:35:59.304]		REQUEST_START		DOWNLOAD START		
+[11/10 13:35:59.304]		SERVER_FILE		SERVER FILE : test.png		
+[11/10 13:35:59.335]		CLIENT_FILE		CLIENT FILE : C:/Users/dangmai/Desktop/TEST/test.png		
+[11/10 13:35:59.351]		SERVER_IP		SERVER IP : 127.0.0.1		
+[11/10 13:35:59.375]		SERVER_PORT		SERVER PORT : 69		
+[11/10 13:35:59.399]		REQUEST_SUCCESS		REQUEST : Send request packet success with length : <17>.		
+[11/10 13:35:59.412]		REQUEST_OPTS				
+[11/10 13:35:59.437]		OPEN_FILE_SUCCESS		Open file : Success : <C:/Users/dangmai/Desktop/TEST/test.png>.		
+[11/10 13:35:59.512]		SUCCESS		Download Success  : <test.png> ==> <C:/Users/dangmai/Desktop/TEST/test.png>	Block:<477 blks | 512 B/blk> Time:<0.063 s> FileSize:<238.363 kB> Down:<240.227 kB> DownSpeed:<3813.12 kB/s> Up:<1.87988 kB> UpSpeed:<29.8394 kB/s> Retransmit:<0 times> 		

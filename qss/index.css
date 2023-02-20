@@ -1,0 +1,46 @@
+* { color: #3d4150; }
+
+#menu_bar { background-color: #f8f8f8; border-radius: 16px; }
+#main_bar { background-color: #f8f8f8; border-radius: 16px; }
+QLabel#title_label{font-style:italic; font-size:25pt;font-weight:bold;}
+QLabel#cpr_label{font-family:Arial;font-style:italic; font-size:8pt;}
+#pushButton_index,#pushButton_pm{font-family:Tahoma;font-size:30pt;font-style:italic;}
+QLabel#label,#label_3,#label_5{font-family:Arial;font-size:10pt;font-weight:bold;}
+QLabel#label_2,#label_4,#label_6{font-family:Tahoma;}
+QTextEdit{border-bottom-left-radius:12px;border-bottom-right-radius:5px;}
+#btnClientFile,#btnServerFile,#btnServer{ font-family:Arial;font-size:10pt;background-color: #ffffff ;border-radius: 5px; padding: 2px 0 2px;}
+#btnClientFile:hover,#btnServerFile:hover,#btnServer:hover{ background-color: #f8f8f8; border-style:solid;
+border: 1px #f0f0f0;font-weight:bold;}
+#pushButton_pm,#pushButton_index { font-family:Arial;font-size:10pt; border-style:solid;border: 1px #f0f0f0; font-weight: bold; }
+
+#label_all{border: 1px solid grey ;
+border-radius:20px;
+padding: 1px 20px 1px 20px;
+background-color:rgb(255,255,255)}
+
+#btnUpload,#btnCancel,#btnClear,#btnAnalyse,#btnDownload,#btnLog{
+        font-family:Arial;
+        font-size:10pt;
+        border-style: none;
+        background-color:#e8e5eb;
+        border-width: 1px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+#btnUpload:hover,#btnCancel:hover,#btnClear:hover,#btnAnalyse:hover,#btnDownload:hover,#btnLog:hover{
+        border-style: solid;
+        border-top-color: qlineargradient(spread:pad, x1:0, y1:1, x2:1, y2:1, stop:0 #272766, stop:0.4 #272766, stop:0.5 #ffffff, stop:1 #ffffff);
+        border-bottom-color: qlineargradient(spread:pad, x1:0, y1:1, x2:1, y2:1, stop:0 #ffffff, stop:0.5 #ffffff, stop:0.6 #272766, stop:1 #272766);
+        border-left-color: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #272766, stop:0.3 #272766, stop:0.7 #ffffff, stop:1 #ffffff);
+        border-right-color: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0, stop:0 #272766, stop:0.3 #272766, stop:0.7 #ffffff, stop:1 #ffffff);
+        border-width: 2px;
+        color: #000000;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+#btn_littleshow{border:none}
+
+#label_wm{font-family:Times New Roman;font-style:italic;}

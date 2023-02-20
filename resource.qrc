@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/index.css</file>
+        <file>icons/analysis.png</file>
+        <file>icons/clear.png</file>
+        <file>icons/diary.png</file>
+        <file>icons/error.png</file>
+        <file>icons/gear.png</file>
+        <file>icons/little_logo.png</file>
+        <file>icons/minimize.png</file>
+        <file>icons/name.png</file>
+        <file>icons/open.png</file>
+        <file>icons/property.png</file>
+        <file>icons/restart.png</file>
+        <file>icons/start.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/syringe.png</file>
+        <file>icons/warning.png</file>
+        <file>images/school.png</file>
+        <file>icons/danger.png</file>
+        <file>icons/right.png</file>
+    </qresource>
+</RCC>
